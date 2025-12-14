@@ -32,7 +32,7 @@ My core strength lies in the MERN (MongoDB, Express.js, React, Node.js) ecosyste
 
 > Here, link of my best and well-documented personal projects from my repositories.
 
-### **1. [Chat Application]**
+### **1. Chat Application**
 
 * **Description:** A brief, one-line summary. (e.g., A real-time e-commerce platform with integrated payment gateway and admin dashboard.)
 * **Tech Stack:** `React` | `Node.js` | `Express` | `MongoDB` | `Redux` | `Socket.io`
@@ -47,8 +47,8 @@ My core strength lies in the MERN (MongoDB, Express.js, React, Node.js) ecosyste
 
 | Stat Category | Placeholder |
 | :--- | :--- |
-| **GitHub Stats** | `![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-sajal-sahu&show_icons=true&theme=radical&count_private=true)` |
-| **Top Languages** | `![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sajal-sahu&layout=compact&theme=radical)` |
+| **GitHub Stats** | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-sajal-sahu&show_icons=true&theme=radical&count_private=true) |
+| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sajal-sahu&layout=compact&theme=radical) |
 
 </details>
 
