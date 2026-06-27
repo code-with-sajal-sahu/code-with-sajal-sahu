@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Sajal Sahu]!
 
-### 💻 MERN Stack Developer | 3+ Years of Experience
+### 💻 MERN Stack Developer | 4+ Years of Experience
 
 I'm a passionate and results-driven **MERN Stack Developer** with over three years of professional experience building, deploying, and maintaining full-stack web applications. I thrive on solving complex problems and creating clean, scalable, and high-performance solutions.
 
