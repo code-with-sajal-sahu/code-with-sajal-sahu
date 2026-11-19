@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Sajal Sahu - Full Stack MERN Developer"
+    width="100%"
+  />
+</p>
+
 # Hi 👋, I'm Sajal Sahu
 
 ### Full-Stack / MERN Developer | React.js | Node.js | TypeScript
